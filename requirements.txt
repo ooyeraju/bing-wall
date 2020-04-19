@@ -1,2 +1,4 @@
 requests(pip3 install requests)
 bs4(pip3 install bs4)
+
+tested on Ubuntu 18.10
